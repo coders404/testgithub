@@ -6,3 +6,8 @@ function a() {
   var a = 10
   console.log(a)
 }
+var a = [10,20,405050505005050]
+console.log(a)
+function Deng() {
+	var aaa = 10020202
+}
